@@ -5,7 +5,7 @@ import save_db as save
 import requests
 import get_answer as function
 
-TOKEN = "1736190330:AAE6LV_-VnyzKKvrxKqwixth-vnXjem0Qko"
+TOKEN = "TOKEN"
 bot = telebot.TeleBot(TOKEN)
 
 exceptions = ['xbox', 'xbox one', 'switch', '[ps4]', '[xbox one]', '[switch]']
